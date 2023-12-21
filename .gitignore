@@ -1,4 +1,4 @@
-
+.gitignore
 # Игнорировать файлы Visual Studio
 .vscode/
 .vs/
